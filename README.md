@@ -1,0 +1,3 @@
+# Mass_Mail_Dispatcher-
+
+Mass Mail Dispatcher is a Mail Client web application that can be used by organizations to send mass emails for different groups of subscribers. In general, Mass mail dispatcher makes the procedure of mass mailing quick and simple. A mass email is a service that allows you to send messages to multiple emails of recipients at a specified time. With this Mass Mail Dispatcher, you can send a single message to thousands of people by using  a CSV file. A mass email service can send emails to a list of any size.
